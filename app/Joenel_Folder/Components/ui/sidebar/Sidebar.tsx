@@ -2,8 +2,8 @@ import React from 'react'
 
 export default function Sidebar() {
   return (
-   <div className='bg-black h-24'>
-    <h1>header</h1>
+   <div className='h-24 bg-red-800 p-2'>
+      <div className="w-full h-full bg-black"></div>
    </div>
   )
 }
