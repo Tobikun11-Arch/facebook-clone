@@ -4,6 +4,10 @@ Content
 
 export default function Dashboard() {
   return (
-    <Content/>
+
+    <div className='h-screen bg-neutral-900 p-3'>
+      <Content/>
+    </div>
+    
   )
 }
