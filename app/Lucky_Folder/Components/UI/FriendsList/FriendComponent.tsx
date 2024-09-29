@@ -3,7 +3,7 @@ import React from 'react'
 export default function 
 () {
   return (
-    <div className='flex w-[100%] max-w-[60rem] my-5'>
+    <div className='flex w-[100%] my-5'>
         <img src="https://picsum.photos/300/300" alt="" className='h-24 w-24 rounded-full'/>
 
         <div className='w-[100%] pl-2 flex flex-col justify-center'>
