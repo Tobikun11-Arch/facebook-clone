@@ -13,7 +13,7 @@ export default function page() {
         <div className='flex'>
           <div className='fixed'><SIdeBarComponent/></div>
           
-          <div className='w-[100%] h-screen md:bg-[#18191A] md:ml-[27rem] mt-[5rem]'>
+          <div className='w-[100%] h-full pb-10 md:bg-[#18191A] md:ml-[24rem] mt-[5rem]'>
             <HeaderComponent/>
             <FriendsListComponent/>
           </div>
